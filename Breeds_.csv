@@ -1,6 +1,6 @@
 breed_name,origin,size,weight,life_span,temperament,coat_color,average_height,diet,breed_group,breedID
 Aardwolf,Mongolia,small,194.44,6,energetic,black,122.84,omnivore,herding,e2e010ea-9137-48e4-9900-761e5614f459
-"Admiral, indian red",Morocco,small,172.68,28,friendly,black,129.29,carnivore,working,adc4c000-29c6-433c-afc2-a4bed8eaa197
+black-backed magpie,swedeN,small,170.54,9,friendly,black,166.02,herbivore,working,0a388cc2-6a0b-46b8-a603-40938c8a7966
 Adouri (unidentified),Slovenia,medium,76.88,12,friendly,white,100.42,carnivore,sporting,640e8a63-2602-4459-9185-07cbdbfd3c86
 African bush squirrel,Indonesia,large,32.1,12,independent,black,135.38,herbivore,herding,61bfb988-12b7-4b6d-9c83-c7db925fdc66
 African darter,Jamaica,medium,146.59,22,energetic,brown,61.27,herbivore,herding,8d33400a-5bc3-4fc1-87ca-98ea91bd7137
@@ -69,13 +69,13 @@ Black kite,Portugal,medium,185.81,4,independent,white,26.92,carnivore,herding,96
 Black spider monkey,China,medium,159.35,21,energetic,black,91.78,carnivore,working,2c673723-176c-4495-8c96-791582fdf59b
 Black vulture,Philippines,large,33.13,5,energetic,white,139.45,omnivore,working,ad1e89ef-01d8-4720-bdf0-f649f18e0172
 Black-backed jackal,Italy,large,167.11,8,independent,black,40.36,carnivore,sporting,c6e7fc02-168d-40d6-90b9-21aa597131e0
-Black-backed magpie,Sweden,small,170.54,9,friendly,black,166.02,herbivore,working,0a388cc2-6a0b-46b8-a603-40938c8a7966
+"hOrnbill, red-billed",tajikistan,small,149.44,22,friendly,black,29.38,herbivore,working,226f3b88-1764-44d3-9624-a7f1f2218bc7
 Black-capped chickadee,Indonesia,medium,30.27,17,friendly,brown,127.85,herbivore,working,fac7dd71-d0e5-416a-a943-d038da0528a5
 Black-footed ferret,Sudan,large,129.16,25,independent,black,155.97,carnivore,working,64fb6aa8-bdc6-4b9a-bc38-4c6e3f008d26
 Black-fronted bulbul,Luxembourg,large,168.66,2,energetic,brown,13.6,herbivore,herding,5463f8f6-a1b7-45c8-a017-b9332fecc09d
 Black-tailed prairie dog,Ukraine,small,78.54,29,friendly,white,135.36,herbivore,herding,2a5fffb6-6201-438c-8726-c9ae8e394867
 Black-tailed tree creeper,China,large,137.91,4,energetic,white,45.78,omnivore,herding,2cddad17-ed53-48ee-b587-8d22d674057b
-Black-throated cardinal,Portugal,small,192.18,21,friendly,white,42.82,herbivore,working,3933baf4-4f0f-49f3-9759-22cffc37e103
+black-throated Cardinal,portugal,small,192.18,21,friendly,white,42.82,herbivore,working,3933baf4-4f0f-49f3-9759-22cffc37e103
 Blackish oystercatcher,China,large,5.32,24,friendly,white,187.06,carnivore,sporting,a496dac5-cf10-468d-b385-e3e3e03c00cf
 "Bleu, blue-breasted cordon",Armenia,medium,94.29,2,independent,white,34.98,herbivore,sporting,eed561f8-7c08-4941-a0c7-800b8708c4f5
 Blue and gold macaw,Saudi Arabia,small,44.51,13,energetic,white,65.35,carnivore,working,50362055-9af4-4efd-9d1e-0503146ba5cc
@@ -96,7 +96,7 @@ Brown antechinus,Mexico,medium,52.91,25,independent,white,8.89,herbivore,sportin
 Brown brocket,Moldova,medium,164.6,10,energetic,black,169.01,carnivore,sporting,adbf3df7-bdc5-4856-82e1-71c5ce5b5a08
 Brown capuchin,Greece,large,131.29,30,independent,white,61.56,carnivore,working,de294879-d69c-405f-b20c-768b1a727c1a
 Brown hyena,Russia,medium,164.67,18,energetic,white,33.57,carnivore,herding,196e6236-3cf7-413f-af83-e87f2b533a54
-Brown lemur,Indonesia,small,16.39,13,friendly,white,198.02,carnivore,working,5ea5e715-0ecc-42f1-b521-bd1963676cf7
+"cormorant, javanese",jaPan,small,174.72,18,friendly,white,138.14,herbivore,working,3d85113b-b45c-4284-becb-da3a5adc28d6
 Brush-tailed bettong,Greece,small,130.21,1,independent,brown,131.36,omnivore,sporting,a5b2eb3b-174b-4953-bde9-e0055f4b710a
 "Buffalo, asian water",China,medium,57.86,28,energetic,black,24.53,herbivore,working,a160f60b-3ba6-4f4e-a39c-538ff7ee935f
 "Bulbul, african red-eyed",Nigeria,medium,122.79,14,friendly,brown,67.21,carnivore,working,19388cca-d46a-48ed-b5a4-5dadbc6b9f65
@@ -173,7 +173,7 @@ Cook's tree boa,Norway,large,64.1,18,friendly,white,133.77,carnivore,herding,f17
 Coqui francolin,Croatia,large,39.49,11,energetic,white,157.76,omnivore,herding,c1e57b3b-8f7b-47e9-bc63-b7bf46f1ffcf
 "Corella, long-billed",Indonesia,medium,57.07,26,energetic,brown,196.59,carnivore,herding,ca045ea2-cf66-4d63-b034-ab68c69d68e1
 "Cormorant, flightless",Colombia,small,134.49,15,independent,white,52.25,omnivore,working,61f3e3ec-661a-46cb-8411-08c576feb591
-"Cormorant, javanese",Japan,small,174.72,18,friendly,white,138.14,herbivore,working,3d85113b-b45c-4284-becb-da3a5adc28d6
+"gazer, sun",greece,small,183.62,11,friendly,black,66.04,carnivore,wOrking,3eefdb74-8dc4-47ab-a6e1-909126bc9dd7
 "Cormorant, large",Sweden,small,57.14,14,energetic,black,175.7,omnivore,working,b457eaf6-0f79-41d5-97f4-8b2effb3ad2b
 "Cormorant, little",China,medium,57.99,8,friendly,brown,60.06,omnivore,herding,a536b4c4-85bb-4693-8c90-e73ac23345d3
 Cottonmouth,Luxembourg,large,72.1,5,friendly,white,11.3,herbivore,working,a667089b-7ffe-4613-a522-5c442e7b6ec4
@@ -269,7 +269,7 @@ Galapagos dove,Indonesia,small,179.36,3,independent,black,95.32,omnivore,herding
 Galapagos hawk,China,large,135.18,27,independent,brown,158.14,carnivore,herding,e27c2f5c-42a8-49b0-9d2e-57b36e011253
 Galapagos tortoise,Indonesia,small,14.01,27,friendly,white,139.24,carnivore,herding,4e0bd588-2cd4-4e67-ae72-5ff2a920f117
 Gaur,South Africa,large,140.28,27,energetic,black,62.87,omnivore,herding,39c1b230-0b9b-4af3-a9aa-b3030c5deaf4
-"Gazer, sun",Greece,small,183.62,11,friendly,black,66.04,carnivore,working,3eefdb74-8dc4-47ab-a6e1-909126bc9dd7
+snowy egret,palestiniaN territory,small,107.49,2,friendly,white,192.54,herbivore,working,716298d0-3dcc-4523-8074-68bede954641
 Gecko (unidentified),Colombia,large,168.46,22,energetic,brown,147.24,carnivore,herding,d2626995-c89b-4126-97d3-743eab9389e7
 "Gecko, barking",Indonesia,medium,148.16,5,independent,black,140.61,carnivore,working,dfa6578d-9e30-46f4-a179-9547e59ecd89
 "Gecko, bent-toed",China,small,43.77,5,energetic,black,123.5,carnivore,sporting,f2340e65-0ca7-4054-a411-0d454aa8fe7d
@@ -330,7 +330,7 @@ Helmeted guinea fowl,Indonesia,medium,94.98,10,energetic,brown,87.51,omnivore,wo
 Herring gull,Poland,medium,62.35,22,independent,black,92.5,omnivore,working,965d2ea8-31c6-4fbe-bb36-995844129379
 Hippopotamus,Dominican Republic,large,184.42,20,friendly,white,156.9,carnivore,sporting,b4425a07-19ed-4e32-8dc1-8e1f04113bef
 Hoffman's sloth,Indonesia,small,55.3,26,energetic,black,136.78,omnivore,sporting,76bdfd77-e31b-4f06-ae57-8abde876ca53
-"Hornbill, red-billed",Tajikistan,small,149.44,22,friendly,black,29.38,herbivore,working,226f3b88-1764-44d3-9624-a7f1f2218bc7
+"admiral, indiAn red",morocco,small,172.68,28,friendly,black,129.29,carnivore,working,adc4c000-29c6-433c-afc2-a4bed8eaa197
 Horned puffin,Brazil,small,147.15,16,energetic,brown,160.52,herbivore,sporting,b8c737aa-eded-4a8a-9ee0-f61202110eb4
 Horned rattlesnake,Russia,medium,148.29,8,independent,black,81.94,carnivore,sporting,a1bd805a-33ed-4f16-a10f-e47cf68d1479
 House crow,Russia,medium,181.33,27,friendly,brown,151.85,omnivore,working,aef1c646-26d4-41b3-a995-316f5db347b0
@@ -417,7 +417,7 @@ Mississippi alligator,China,large,60.23,5,independent,white,38.82,herbivore,spor
 "Mongoose, javan gold-spotted",Brazil,medium,175.62,7,energetic,brown,137.29,herbivore,working,9ab4c768-aa2f-47dd-bd91-15857b9404c9
 "Monitor, water",China,medium,190.67,8,energetic,white,184.44,carnivore,herding,2ffefa40-fd66-4141-b0ab-dd928dc9a049
 "Monkey, black spider",Pakistan,large,65.71,13,energetic,white,169.1,herbivore,herding,91bd432c-20e6-472d-a0bb-a70d5b790f7b
-"Monkey, bleeding heart",Philippines,small,178.07,18,friendly,black,49.02,omnivore,working,eb97328e-33cd-4c7a-b286-44489ec26f4a
+paInted stork,china,small,165.31,15,friendly,black,183.66,omnivore,working,c12ef133-e4d5-4aee-8fd3-3ee4cc1e67c0
 "Monkey, rhesus",Vietnam,medium,196.04,9,friendly,brown,141.29,herbivore,working,c7522482-5d68-4a28-97c6-94b8deafe560
 "Monster, gila",Kazakhstan,small,47.91,1,energetic,black,62.61,omnivore,sporting,d662e3ac-c04a-4cc5-a895-da739837cb17
 "Moorhen, purple",Macedonia,large,2.74,8,independent,black,113.89,omnivore,herding,948c7113-5e4f-408a-ba4f-dce5d2fe83a5
@@ -456,7 +456,7 @@ Ovenbird,Greece,medium,132.06,30,friendly,black,17.18,carnivore,sporting,bd75e63
 "Owl, great horned",South Africa,small,197.49,7,independent,white,159.11,omnivore,herding,89979b80-e480-4416-b2de-401abe15bd9e
 Paca,China,small,124.16,2,energetic,brown,145.03,herbivore,working,a4e9cfff-60c6-46f4-95ed-f4a664207848
 Pacific gull,Philippines,large,116.51,4,independent,white,156.07,carnivore,working,cc9e94fe-e4db-4c10-8a0c-a263bd5e8c3d
-Painted stork,China,small,165.31,15,friendly,black,183.66,omnivore,working,c12ef133-e4d5-4aee-8fd3-3ee4cc1e67c0
+"Monkey, bleeding heart",philippines,small,178.07,18,friendly,black,49.02,omnivore,working,eb97328e-33cd-4c7a-b286-44489ec26f4a
 Pale-throated three-toed sloth,Philippines,large,196.8,27,energetic,black,192.55,carnivore,herding,6f5cc05f-e631-4a02-b048-5246583dc916
 Pampa gray fox,Indonesia,large,81.38,30,independent,white,178.61,carnivore,herding,a923cee7-adf0-4d34-9d0e-fdcc9c72b100
 "Parrot, hawk-headed",China,large,114.71,15,energetic,white,139.5,omnivore,herding,dd5c6cf1-8c36-4d93-a6e7-5a280fa41b1c
@@ -561,7 +561,6 @@ Smith's bush squirrel,Russia,small,11.02,4,energetic,black,154.69,omnivore,herdi
 Snake (unidentified),Philippines,medium,95.73,2,energetic,brown,82.98,herbivore,sporting,841c947e-ac74-4e8e-b317-afb619a09b04
 Snake-necked turtle,Philippines,large,3.02,10,independent,brown,77.83,carnivore,working,344b5f99-7d23-421b-ab05-e4bdd9239e33
 "Snake, carpet",Portugal,large,122.95,27,friendly,black,14.12,herbivore,working,d8a71970-5b4e-41eb-998a-3d432698b511
-Snowy egret,Palestinian Territory,small,107.49,2,friendly,white,192.54,herbivore,working,716298d0-3dcc-4523-8074-68bede954641
 South African hedgehog,Colombia,medium,96.53,17,energetic,brown,148.94,omnivore,working,28e6aa11-d6ce-4f80-be01-f838c28c59f2
 South American meadowlark (unidentified),Sweden,medium,112.76,24,energetic,brown,190.8,omnivore,herding,238d4767-7fba-456b-b584-22cbb8220d3c
 South American puma,Czech Republic,large,155.38,2,energetic,black,78.16,omnivore,working,b38fe2f4-19d3-41cf-9801-eb899c7d6dee
@@ -676,7 +675,6 @@ Waved albatross,Japan,medium,24.23,26,independent,black,154.26,herbivore,working
 Weeper capuchin,Ukraine,medium,37.59,5,friendly,white,104.81,herbivore,working,41c65e87-cca7-4315-b67e-78767627b8e3
 Western bearded dragon,Greece,small,27.33,15,friendly,white,157.45,herbivore,herding,ca3295d8-cd13-465b-bf9a-a1f771bcc6c4
 Western pygmy possum,Indonesia,small,64.87,16,energetic,brown,76.99,herbivore,herding,3b75e5aa-5b30-4ace-809e-f12bc8250088
-Western spotted skunk,Ukraine,small,26.61,22,friendly,white,123.03,omnivore,working,16590578-8550-4a73-a80c-87f4b32adb07
 "Whale, baleen",Portugal,medium,199.18,14,energetic,brown,156.37,herbivore,sporting,62be6571-b638-4caa-92ef-112c35850701
 "Whale, killer",Russia,medium,103.12,22,energetic,black,109.66,omnivore,working,2174d408-19c2-4d63-b9f4-11f97ee60ec5
 "Whale, long-finned pilot",Slovenia,small,153.55,26,friendly,brown,188.11,herbivore,working,673b2abd-e5e9-46b6-81de-12cbda39b261
