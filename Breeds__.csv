@@ -1,4 +1,4 @@
-breed_name,origin,size,weight,life_span,temperament,coat_color,average_height,diet,breed_group,breedID
+breed_name,origin,size,average_weight,life_span,temperament,coat_color,average_height,diet,breed_group,breedID
 Aardwolf,Mongolia,small,194.44,6,energetic,black,122.84,omnivore,herding,e2e010ea-9137-48e4-9900-761e5614f459
 black-backed magpie,swedeN,small,170.54,9,friendly,black,166.02,herbivore,working,0a388cc2-6a0b-46b8-a603-40938c8a7966
 Adouri (unidentified),Slovenia,medium,76.88,12,friendly,white,100.42,carnivore,sporting,640e8a63-2602-4459-9185-07cbdbfd3c86
