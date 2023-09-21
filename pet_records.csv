@@ -1,5 +1,5 @@
 pet_name,pet_gender,owner_name,vet_name,feeding_schedule,pet_type,breedID,color,pet_id,weight
-Olimpia,male,Olimpia Immings,Olimpia Salamon,once a day,lab grown,01217728-c621-4039-9cbc-e8177e5d63f1,Red,7d91017e-b06c-419c-8bd0-fef3a71b7ea1,75.55
+Dorothea,female,Dorothea Le Galle,Dorothea Burnip,twice a day,found,448e18f9-9c4d-4002-951d-c0691e03bec3,Red,008bd277-f30b-4961-8696-1da0caad7ad6,65.53
 Cos,female,Cos Szymanowski,Cos Berget,,lab born,0149bef1-f297-4516-b53b-9f33f0935af5,Fuscia,5a65b675-4dcb-436b-a750-109a50db43e1,2.41
 Archambault,female,Archambault Cowterd,Archambault Sargent,,found,0197e37c-01a0-42c1-a36c-94b35062f2ce,Goldenrod,d6519f6b-63fb-4598-a146-1fba0bed7ffa,55.97
 Shantee,male,Shantee Chisnell,Shantee Shortland,,lab born,01aeaa31-3d0f-4eef-90d4-69e18d4c5458,Pink,47b83d25-63e3-490d-807b-f3b9a002b077,49.02
@@ -41,14 +41,14 @@ Doyle,female,Doyle Geratasch,Doyle Rogez,twice a day,stolen,0c15e070-adf4-43dc-b
 Prentiss,female,Prentiss Gumly,Prentiss Tym,twice a day,stolen,0cdf5bbc-b00a-4bad-9755-b5ac64aaa0a6,Maroon,798a1138-cdfa-42e6-b0bd-6323edb75540,74.5
 Gale,male,Gale D'Oyly,Gale Kunisch,twice a day,lab grown,0da368a5-3d9c-44d0-a019-0b0a1721bb1d,Orange,79200fbf-fc24-432c-82f9-094f73d35527,48.9
 Carmella,male,Carmella Gatherell,Carmella Ritchman,every 4 hours,found,0e153939-6deb-4764-b69a-cfdbabcd755e,Turquoise,d8a31ce3-cf3d-48f2-aa53-fd9954283abf,94.78
-Ashlee,male,Ashlee Feldon,,,lab grown,0e2557ae-3427-4dcd-a9f8-87ea4bba1e99,Red,1efd2d60-a079-4a79-adae-3323bd14a00f,45.21
+Thorndike,male,Thorndike Zoephel,Thorndike Dowley,twice a day,lab grown,1d36c8ab-41e3-4295-a522-ab1f07a6a53e,Red,05936641-e831-4e64-a4cc-2033a4083305,40.31
 Cash,male,Cash Fitchew,,every 4 hours,found,0ec798d5-02cc-4a08-80b9-c26e01ab9e45,Mauv,ec2209fe-1f26-46be-8490-bef18e834510,14.82
 Selena,male,,Selena Sommer,every 4 hours,,0f54bab7-322c-4aa1-8144-5a826cb52687,Crimson,f69bbd54-be40-467c-8305-bc426e7d1df4,14
 Priscilla,female,,Priscilla Looks,,stolen,0f5bdb67-f499-45d3-9392-6ddd0a983bba,Turquoise,7a5bfa1b-7d07-4e3f-9961-c231b5fae043,86.09
 Nickolaus,male,Nickolaus Guppey,,every 4 hours,found,10214472-ac34-45ed-aeeb-7434e24f14a4,Maroon,5e11826d-dd47-40d9-9a2c-785dd524934e,43.51
 Tallie,male,Tallie Roantree,,twice a day,found,cb3a9da4-07b0-4969-9810-1505108d79d9,Goldenrod,0de720b5-318c-45c2-8e9b-45b15e6dff11,53.42
 Sela,female,Sela Bradane,Sela O'Brogane,twice a day,lab born,11c29c23-f782-4c7d-898b-292dd23c26d1,Purple,e0d2ab58-2a7c-44d0-be21-562d7bb7e0e8,61.2
-Sigfried,female,Sigfried Eddie,,once a day,found,11fa19f6-9daf-4f08-865e-b23661df843d,Red,60cd7525-3231-407f-b068-f43dbf043713,15.21
+Yorke,male,Yorke Corthes,Yorke Guerner,every 4 hours,lab born,8830f428-d119-48f4-ad11-b4dbcee961ba,Red,0c157c53-6298-4de6-ad17-2bdb1580c6cb,65.53
 Avrit,male,Avrit Balaam,Avrit Railton,twice a day,lab grown,127da8ee-a074-406a-bd5d-4ac05987f762,Pink,37838f4e-2395-49ed-b37b-9094aad74c52,5.95
 Richie,male,Richie Vasyagin,,once a day,stolen,12aab77e-ee13-4293-a648-faca44f99750,Turquoise,1f598144-38e4-4c13-beab-0977d75da2ad,59.82
 Kiah,female,Kiah Kinze,Kiah Barnewelle,twice a day,lab grown,13be18f7-1fb9-4790-803c-d5429628a6ec,Violet,aa3d8f94-af47-4a5e-8a18-9541e834d6d2,61.55
@@ -77,8 +77,8 @@ Crissy,female,Crissy Kupisz,Crissy Brane,once a day,lab grown,1b3edb18-f8d8-42bb
 Carver,female,Carver MacCostigan,,every 4 hours,stolen,1c5941ec-bb81-41d0-ad2a-09c401a9901b,Pink,58dd48af-06c4-4d06-a80a-6afb33a31d91,18.62
 Derril,male,,Derril Ballinger,every 4 hours,stolen,1c668499-5984-42d4-bebd-df541e5180df,Aquamarine,d176340b-a077-4cda-9a3b-11ac85cdaed6,68.15
 Elly,male,Elly Newcome,Elly Ship,twice a day,stolen,1c895052-63d5-4198-9620-9bfd06b9d52b,Mauv,9d5ae224-750f-42b5-96dc-ba630abe451c,55.66
-Thorndike,male,Thorndike Zoephel,Thorndike Dowley,twice a day,lab grown,1d36c8ab-41e3-4295-a522-ab1f07a6a53e,Red,05936641-e831-4e64-a4cc-2033a4083305,40.31
-Sharyl,male,Sharyl Maymond,Sharyl Stent,once a day,stolen,1d732e0a-47e5-4fb6-ae53-99ddb6b75f5f,Red,435cde7c-ff6c-45d1-81d8-d0e03237b642,41.65
+Ashlee,male,Ashlee Feldon,,,lab grown,0e2557ae-3427-4dcd-a9f8-87ea4bba1e99,Red,1efd2d60-a079-4a79-adae-3323bd14a00f,45.21
+Gran,male,,Gran Saphin,twice a day,lab grown,79212e5e-23ae-47ce-8818-18596629e0b4,Red,2083ae26-7968-44aa-8e21-bfa19db1214c,66.92
 Brittan,male,Brittan Jagiello,Brittan Boykett,every 4 hours,stolen,1dc04a70-f67a-43fb-bb9b-22a98e66b0a0,Pink,bcc125e5-b980-4083-a819-9ca25ccaaab5,1.33
 Elyn,male,,Elyn Pesek,once a day,lab born,1dda5d17-36d8-45e9-a226-b30b79525d9d,Orange,e337d1ae-bb06-4c5f-9c6e-0db563352938,8.2
 Gerry,male,Gerry Village,Gerry Frentz,every 4 hours,lab grown,1e041464-4174-4bf5-8340-7a6f2b57e4f1,Mauv,aec081fb-b881-4df3-8106-74c73b7b90c2,63.81
@@ -125,15 +125,15 @@ Dore,male,Dore Flanne,,twice a day,stolen,2b1fea28-9fb8-49b3-8f42-29e561b73891,P
 Clark,male,,Clark Grog,twice a day,found,2b40ca9d-28fe-4f08-bb9e-33ff19914025,Maroon,8def4b74-a9c4-42fa-a41e-5febef3f853b,72.83
 Tillie,male,Tillie Petrillo,Tillie Cansdell,every 4 hours,lab grown,2b532530-385b-4c6a-9f4c-1563c36c2a63,Orange,b6eb1332-262e-4d56-bc0a-7ba3fe521e11,74.31
 Klarrisa,female,Klarrisa Bachnic,Klarrisa Foystone,every 4 hours,found,2c673723-176c-4495-8c96-791582fdf59b,Yellow,7201dcf6-02c7-415f-8f72-bc7f961a2e1a,10.66
-Malcolm,male,Malcolm Giannotti,Malcolm Rosenboim,,lab grown,2c808fb0-fcd9-434f-a4a5-e5a6357c26c8,Red,6c698e58-c681-4a6c-9ff2-4c44168df05b,42.7
+Louella,female,,,twice a day,lab grown,565f7e94-d0ee-48c8-aa7e-44df69ac8520,Red,22eca300-f47a-457b-bc52-3e1185059744,49.7
 Shaylyn,female,Shaylyn Lindeboom,Shaylyn Alentyev,,lab grown,2cddad17-ed53-48ee-b587-8d22d674057b,Mauv,f129e3ab-e3b3-4145-be26-78c7cbd3af64,36.9
 Annalee,male,Annalee Grollmann,Annalee Wissby,,lab born,2d02fbe9-90c6-4601-aa71-bd978cd82512,Orange,a5ee7ba3-1548-4759-99f0-09fc0bf9c5b5,48.44
 Kathryn,female,Kathryn Pegg,Kathryn Hendriksen,once a day,found,2d127afc-eebb-4376-baf4-66aa0475fea5,Purple,2b05664f-8bf4-4e2e-9417-d165d80ee925,83.46
-Brucie,male,Brucie Jelk,Brucie Parfitt,once a day,lab grown,2e96dacc-61d3-4f1c-a657-855fac4779b4,Red,8b8791d3-6713-46b1-b848-5de111c2b576,27.92
+Susy,female,Susy Chessel,Susy McGeachey,twice a day,lab born,66d091fd-0854-4f5c-936d-33776e5ab7ca,Red,2459e9c2-9f3b-4dc1-a62f-4def665e9347,40.49
 Townie,male,,Townie Kipping,once a day,stolen,2ef6cff8-5726-4255-9ac4-54902508979f,Indigo,facd62fe-6456-490b-aa49-fe026c39a4b3,18.92
 Patrice,male,Patrice Joao,Patrice Colliard,,stolen,2fa98302-4850-41ca-b09e-cf69657cae57,Turquoise,a70921b7-911b-4021-8928-c46094da5068,27.88
 Thorny,female,Thorny Petracchi,Thorny Priestland,,lab grown,2ffefa40-fd66-4141-b0ab-dd928dc9a049,Turquoise,bf5eaeeb-e499-469f-a2c8-3a9a9e099ce0,77.51
-Briny,female,Briny Baulk,,once a day,stolen,3037ca3d-01a5-4d1c-a063-2fe665e5796c,Red,9935ed8b-042a-4446-94b3-d182a566ae94,83.52
+Binni,female,Binni Laminman,Binni Banks,twice a day,stolen,393e71b1-f4c3-436b-9aad-bf7368a69d23,Red,26ee6e2d-7cbc-4794-ab7f-09f25d8fdc14,20.31
 Aubrie,male,Aubrie Steffans,Aubrie Wallhead,twice a day,lab born,30cf31d4-c820-4534-b8b3-65a436d9c3a2,Aquamarine,087e3af2-2280-4134-abec-844c22eae5da,62.67
 Lois,female,Lois Spiaggia,,twice a day,stolen,30e0442c-2946-4ff7-a0be-4ebe5d04baeb,Blue,61f54820-2246-4962-9ad0-6e17c60bdd8e,62.6
 Valentino,male,Valentino Gillmor,Valentino Boake,once a day,stolen,3104937a-58ef-4bd8-8fd3-bb4eb1930004,Violet,c83e426b-42b6-422c-88e5-454752bd70eb,95.1
@@ -153,7 +153,7 @@ Nestor,male,Nestor Fereday,Nestor Sendall,twice a day,lab grown,3584ff40-e1bf-44
 Derby,female,,,once a day,lab born,35d3ad8e-5f5f-491d-86c2-cee1e28ddfaa,Puce,8c0a2bfc-8c96-4d08-983b-00062f042050,18.12
 Crissy,male,Crissy Cartman,Crissy Gobert,every 4 hours,found,35e347a7-c006-4602-8f49-e9c4be964481,Maroon,513571cc-d87d-4eaa-a7ba-47b8ecfb42c0,73.02
 Aggi,male,,Aggi Peach,twice a day,lab born,36015927-6b39-45ca-8ff5-a7b13a99d4b5,Blue,b1beb022-2126-4464-a222-a0f76a2206c4,71.49
-Rafaelita,male,,Rafaelita Rickaert,once a day,found,362523ba-f972-4d78-9086-398f7590ccc7,Red,be9a1064-64bf-4f73-b739-b904cb03ff93,3.86
+Wallache,male,Wallache Cossell,Wallache Arlet,,lab grown,cc9e94fe-e4db-4c10-8a0c-a263bd5e8c3d,Red,2d9421d1-bb49-4bc3-bdad-da65a047201d,54.95
 Stace,male,Stace Gilmartin,,,lab born,cb3a9da4-07b0-4969-9810-1505108d79d9,Violet,9094256d-b381-4f6a-8c55-47d7ec7567e8,0.16
 Tamar,male,Tamar Mougeot,Tamar Dinnies,once a day,lab born,36e7430d-007d-40b2-81e0-59c534508b47,Teal,df53cddd-57fb-4f5d-a0c7-a21f8a2f30ae,22.48
 Elsy,female,Elsy Aishford,Elsy Bratcher,every 4 hours,stolen,36f9fbc3-08af-4786-9a8b-599c94e64ded,Crimson,9018070d-6888-4ddb-b053-a3c5e5ee3f72,83.83
@@ -190,11 +190,11 @@ Orv,female,Orv Openshaw,Orv Manzell,every 4 hours,stolen,41c65e87-cca7-4315-b67e
 Dolph,female,Dolph Ternouth,Dolph Rookeby,once a day,,41f08425-76aa-493a-927f-144174b242ce,Violet,b7f8a36b-0ac4-4d8e-a6bf-d70f40ec8b03,95.03
 Sydney,female,Sydney Axelbey,Sydney Bilney,once a day,found,4226ddd5-6ff2-44e3-bbd8-8d6fb47d2625,Pink,59cb1912-ebb7-42cd-b2f2-747feeacb57c,67.8
 Ferris,male,,Ferris Aitken,once a day,,42a27627-9c1b-4fa7-af85-fd93d5f564e4,Crimson,217563f5-3874-4518-961d-b82a1fcf7060,66.25
-Dorothea,female,Dorothea Le Galle,Dorothea Burnip,twice a day,found,448e18f9-9c4d-4002-951d-c0691e03bec3,Red,008bd277-f30b-4961-8696-1da0caad7ad6,65.53
+Sabine,male,Sabine Cattach,,every 4 hours,found,d5451e7e-3ce8-41be-adc5-e4686ca3516e,Red,2e5a131d-c00a-4b2b-ada5-b3ed8168f194,78.08
 Pauly,male,Pauly Breedy,Pauly Bransom,every 4 hours,lab born,452f0fa0-6c74-4b0d-b25d-bc2acd7966d6,Purple,a0bfeaad-1f98-4e61-a54a-99c618d4443b,13.19
 Stacy,male,Stacy Shilladay,Stacy Eate,once a day,found,458e9e11-f3a5-489b-8d5c-9c0a0c81dfc5,Orange,beaad60e-cf76-4c5e-b435-fab08ded0deb,32.8
 Say,male,Say Spaight,Say Dawid,twice a day,lab born,4626df24-964b-4350-95a0-6fdd19425da4,Orange,8baa0b06-d11e-4ad0-8b5e-f33e08162f9a,46.75
-Rakel,male,,Rakel Prator,once a day,lab grown,46a7112b-e268-45cb-a526-d947b686530a,Red,7797579a-49c8-4e0a-a906-6587dc5d7122,95.31
+Nickie,female,Nickie Hackey,Nickie Martinie,once a day,lab born,f0b83cde-1ea2-4d57-b770-bfc0129639cb,Red,33c673fd-1ad0-4978-bbb5-978333845402,99.51
 Lindsy,female,Lindsy Musicka,Lindsy Boreland,,stolen,46ab8e46-8533-470f-a7e0-d7c63688c67a,Yellow,77523f6a-cac1-40d2-a505-e4a98d2c686f,76.82
 Javier,female,Javier Yole,Javier Hackelton,,lab born,476bd353-7fc2-4f21-802f-d7ce3de3b2a7,Pink,e98e6852-fb5d-4516-b201-d6dad4fee0d3,0.26
 Jackelyn,female,Jackelyn Wolfart,Jackelyn Lepick,every 4 hours,stolen,4791609a-280b-4d86-b125-cea55dd489c7,Maroon,a89e279d-d5b5-444c-8d47-55db070f8e0b,48.9
@@ -206,7 +206,7 @@ Keene,female,Keene Ibbitt,,every 4 hours,stolen,4a5955da-a82d-47bd-be7d-ffcb6276
 Ferdie,female,Ferdie Aguirrezabal,Ferdie Potkin,once a day,found,4a5f8cce-e031-4eb5-9bd2-40524f82b4d7,Teal,16ad838e-7a8f-4df7-ae5f-7de54f0bb40b,36.92
 Donnell,female,Donnell Wadelin,Donnell Mayne,,stolen,4a9bc946-3d2d-42ca-a72e-6bcc923908af,Crimson,1fc9a776-3e0e-4e35-ac69-c0fb24224464,19.65
 Idette,female,Idette Mitchiner,,twice a day,found,4a9f6636-0ea2-4e11-b47d-bbc1373700a2,Crimson,8988b7d5-c1f7-4fb8-b783-c499d7f79909,12.86
-Farlay,male,Farlay Baxter,Farlay Kamenar,once a day,found,4abccdfc-b7b8-4766-9ca7-b9f5e55b9402,Red,384b9b9a-e3fb-40b0-a4a6-162d307c8464,82.11
+Annice,male,Annice Ashlin,,every 4 hours,stolen,e0632261-c189-49fe-b1f0-30364ef69107,Red,35a89b0f-8027-42b6-a65a-ad884dc3d722,64.42
 Alvis,female,,Alvis Parnby,twice a day,lab born,4ac4f311-3930-4167-89df-d21114d33b08,Khaki,726213e1-575d-454a-9224-f63fddab1e3c,87.26
 Trula,male,Trula Dows,Trula Turvie,once a day,found,4bee1f65-1095-4470-890d-3bfb4d3e886b,Yellow,94c26c32-7434-41e3-8d56-c861938faec3,72.07
 Saudra,male,Saudra Phillips,Saudra Hutton,twice a day,lab born,4c6e1e42-3df0-4590-849f-023840d5593e,Khaki,31151855-803a-42ee-b06f-b4d6e73c6bd1,84.71
@@ -231,14 +231,14 @@ Ilysa,female,Ilysa Clerc,Ilysa Rankin,every 4 hours,stolen,5338c363-9846-4972-8f
 Kiersten,female,Kiersten Seely,Kiersten Hull,once a day,found,5344a39e-7143-4c9b-9036-47bfdf1cbb61,Indigo,2f03cfb9-b8f2-417f-a7a6-34228dd2bf77,11.2
 Silvain,female,Silvain McAlpine,Silvain Braikenridge,once a day,found,537e7406-1c0b-4180-a6e8-2902c2a7f098,Mauv,adf784b6-ad42-420d-bea5-1247711d6f24,84.93
 Angelico,female,Angelico Dullard,Angelico Cragg,,lab grown,53ac0be8-e65b-4945-8966-016f4a060e12,Indigo,70c69142-9ebb-49b7-9451-b927bfc80c50,15.49
-Ariana,male,Ariana Puttergill,,once a day,lab born,53c56f09-a98d-4614-a7ff-b35ff218d463,Red,ce6e9872-07c1-4245-9cb4-222c35ce3e59,13.11
+Thorsten,male,Thorsten Cosgrave,Thorsten Simeons,once a day,lab born,f3fc222a-0471-45ad-91d1-41f1d78d4850,Red,37a82563-8f1d-434f-8b17-19a1344c99c7,23.27
 Lorraine,male,Lorraine Wadman,Lorraine Vittore,twice a day,found,541918a0-72ab-4f82-bae8-6f555a5ace07,Blue,ca523530-572a-4442-9485-f9c24a8d2bc6,34.04
 Yetta,male,Yetta Shermore,,once a day,found,541a54fb-7047-44a8-9ddc-0a922d6142d3,Orange,914913ac-315d-447f-bd5b-ba4fce442a40,47.67
 Aili,female,Aili Darth,Aili Rainon,once a day,found,545ad37e-3d06-4527-98c7-6fa202f3e788,Teal,3f957d22-95df-4547-a92f-b61806689e9d,24.83
 Rebekah,female,Rebekah Carwardine,Rebekah Nussgen,twice a day,lab born,5463f8f6-a1b7-45c8-a017-b9332fecc09d,Purple,7f40ea88-e588-46d4-b541-64ee444abe6a,51.73
 Stephani,female,Stephani Besant,Stephani Marley,every 4 hours,stolen,54974f29-d0c4-4479-b5a5-888691552c37,Violet,bbea9e69-dea1-43e3-a715-b81b8ec2bfeb,39.01
 Germayne,male,Germayne Spurriar,Germayne Wylam,every 4 hours,stolen,cb3a9da4-07b0-4969-9810-1505108d79d9,Turquoise,e2fd74ca-6fe9-4cc5-967c-eca8aeac058e,16.52
-Louella,female,,,twice a day,lab grown,565f7e94-d0ee-48c8-aa7e-44df69ac8520,Red,22eca300-f47a-457b-bc52-3e1185059744,49.7
+Farlay,male,Farlay Baxter,Farlay Kamenar,once a day,found,4abccdfc-b7b8-4766-9ca7-b9f5e55b9402,Red,384b9b9a-e3fb-40b0-a4a6-162d307c8464,82.11
 Monique,male,Monique O'Tuohy,Monique Gouldeby,twice a day,lab grown,5675863c-1bc5-4d24-b11e-9e7684bd74d8,Turquoise,f665313c-5596-4725-a5f8-1db146f93519,63.94
 Spike,male,Spike Suttle,Spike Betteridge,once a day,lab grown,5679a3f2-d201-4bf1-9ac3-8a1d4d8c4ea9,Turquoise,8c37cff3-1a52-4068-abc4-4eca86d38b6a,85.45
 Sunny,female,,Sunny Kelinge,every 4 hours,stolen,570f8dec-4e2a-4d3e-a423-0b2ad3633e47,Purple,c923f176-735c-4c56-8f0b-e45a4fa24181,49.51
@@ -257,7 +257,7 @@ Amelina,male,Amelina Pyer,Amelina Jacquemard,twice a day,lab grown,5b8e0e46-a19d
 Lynnett,male,Lynnett Airdrie,Lynnett Dewsnap,every 4 hours,lab born,5bd71ced-9ff8-42ec-9e15-6d014e0cb381,Turquoise,8ed6a446-215a-4f11-8969-aa9aa680777e,69.41
 Ortensia,female,Ortensia Ciccoloi,Ortensia Cliss,once a day,lab grown,5c7c16b0-209f-4255-a86f-1591553aae25,Goldenrod,ccc743df-9370-4f47-8f13-0509143607e1,8.68
 Harmon,female,Harmon Woofinden,Harmon Haylor,,stolen,5c8068a5-beb7-4edb-8539-41abc7ab1527,Mauv,23bb7d8c-2c89-4204-a6e0-482ebdf8754e,86.18
-Belva,male,Belva Warters,,,lab born,5d10f236-a94f-4384-a8e2-728fd79ea8b2,Red,5fa18cd1-cc8e-4b62-b72d-c82c72306009,7.1
+Sharyl,male,Sharyl Maymond,Sharyl Stent,once a day,stolen,1d732e0a-47e5-4fb6-ae53-99ddb6b75f5f,Red,435cde7c-ff6c-45d1-81d8-d0e03237b642,41.65
 Melva,male,Melva Almon,Melva Scamerden,once a day,lab grown,5dbfbc95-3ef0-4f54-8432-31a8808185ff,Pink,6230eb76-0cf6-4b60-bb44-f7058e48d497,25.18
 Stanislas,female,,Stanislas Newlyn,once a day,,5e869a96-cd17-468d-8cd1-3fb7be893bba,Green,e0b0dddc-64a8-4b7f-a87c-aac5ec804869,41.42
 Ashla,male,Ashla Sloley,Ashla Kas,,lab grown,5ee436df-ae6b-4ce0-9b0e-0f795f82d704,Goldenrod,12315a46-39ec-489c-9487-4749e948f7c8,40.8
@@ -289,7 +289,7 @@ Audre,female,Audre Victory,Audre Grainger,twice a day,stolen,6544b4c0-4e48-4118-
 Eadie,male,Eadie Soppeth,Eadie Mynott,once a day,stolen,656617d3-6174-4e8b-888a-a36a8e6fbd93,Fuscia,b71ac2a7-7df5-4222-ab2d-0214e08d72d6,20.6
 Jules,male,Jules Dymidowicz,Jules Fike,twice a day,lab grown,66342cc3-5ea0-44a6-8217-0af065d7daec,Fuscia,355e1d3d-b531-4443-a612-2c1a7c09664c,26.64
 Garrett,male,Garrett Mearns,Garrett Daverin,every 4 hours,stolen,66b82b08-5dd1-4c2a-9efc-c406d0bd3524,Violet,fdd55f78-ccf4-41f5-b8f8-108b541d8ef8,89.08
-Susy,female,Susy Chessel,Susy McGeachey,twice a day,lab born,66d091fd-0854-4f5c-936d-33776e5ab7ca,Red,2459e9c2-9f3b-4dc1-a62f-4def665e9347,40.49
+Goran,male,Goran Scogings,,twice a day,lab born,8086a4a0-4343-44b0-812c-83a2385f3420,Red,4d0f525e-eaf1-4e57-962c-df0c38a0aa9c,94.91
 Tabitha,male,Tabitha Summerley,,once a day,found,66e59a90-1d82-4185-ad57-0d31495b24e6,Aquamarine,db21f0ce-550c-4847-b8da-723b7e1a5575,7.04
 Ferdinand,female,Ferdinand Lieber,Ferdinand Baldery,every 4 hours,found,66eb81a3-b07c-4587-b846-c15d885a0c1f,Mauv,708496e2-639c-46ad-9568-b51cb96a02ce,5.03
 Janelle,male,Janelle Siberry,Janelle Seavers,twice a day,,66fd08c4-4c76-459c-bcb1-692fe9efbbc3,Goldenrod,95259c06-31fe-45a8-8594-05bb89a829d1,75.64
@@ -308,7 +308,7 @@ Patrick,female,Patrick Halladay,Patrick Watkin,,lab born,6b62ad00-23b3-49d2-a626
 Oby,male,,Oby Kobieriecki,once a day,stolen,6c253e02-b20d-442e-9063-8418533a36dd,Mauv,470bfaad-ab3d-4998-a9da-de8ad239bf27,66.77
 Pavel,male,Pavel Mutimer,Pavel Taffurelli,every 4 hours,found,6c4328fd-035a-48d3-95d8-c0fc49da0fea,Indigo,82191782-48f5-4661-90e3-71a8dab8d66b,99.22
 Thaxter,female,Thaxter Deards,Thaxter Rawes,every 4 hours,lab born,6c570a2a-6e02-4ce2-bdd7-488882cd5116,Turquoise,0fdd66c6-9c15-4d11-aaa1-4308198eb5f0,88.33
-Eleonora,male,Eleonora Thorlby,Eleonora Allbones,once a day,found,6c58ad14-bda9-446e-a4a1-dd72f7ef3d10,Red,bafffcaf-9048-4381-810a-db808d524c7c,45.18
+Katharyn,female,Katharyn Crofts,Katharyn Drydale,,stolen,b8041034-410b-43b3-8e92-aae95075d976,Red,4d60c1bb-530f-4890-8401-8249fdfe05b0,80.05
 Alfy,male,Alfy Stefi,Alfy Pohl,,stolen,6cf973a0-4e8a-4560-a311-b4d9380b59f4,Maroon,05e09bf6-decd-45f6-a58c-691f109af728,24.52
 Sherilyn,male,Sherilyn Beauchamp,Sherilyn Epps,once a day,found,6d243746-0a1e-420d-aff3-f7f702380fec,Fuscia,435f0ac5-0d86-46a2-bdd5-353fbc8a23c1,45.87
 Erda,female,Erda Playfoot,Erda Shinton,every 4 hours,found,6eb16cfa-4b2c-4b46-8202-786f25b456df,Khaki,ead476da-41e8-4705-a86b-f2ce9c565528,73.19
@@ -326,7 +326,7 @@ Hedda,female,Hedda Dunderdale,Hedda Zanutti,once a day,lab born,71af2b68-22a9-47
 Ava,male,Ava Oldale,,twice a day,stolen,729df4cc-b50d-447d-9c14-a264b95176c1,Purple,a89f0a30-693c-46cf-9215-2af2e563dbbe,96.92
 Bart,female,Bart Simmers,Bart Puleston,,lab grown,7372d750-ba66-4c0a-bbb0-fa7281390a7d,Pink,2543c39e-4e10-4107-8bc1-a84e38d8f994,74
 Kareem,male,,,twice a day,stolen,7398b745-fe51-471b-ad54-41dcc5c6609d,Puce,28175902-b827-4664-9f80-cf930de7f1e5,7.86
-Fleur,male,Fleur Catlin,Fleur Echlin,twice a day,lab grown,73c8b32d-3224-4fb2-ad3e-927942d1ebb4,Red,61f1cadc-97b7-41a7-b8a6-bc5f3c6caaa5,95.26
+Midge,male,,,every 4 hours,lab grown,eed561f8-7c08-4941-a0c7-800b8708c4f5,Red,54b13396-ee80-4a27-8e81-71c53cba755c,15.79
 Adrienne,male,Adrienne South,Adrienne Britee,once a day,lab grown,7404e291-0c4e-4239-8d10-3b7b7b48c20a,Fuscia,82d077c7-e9ad-42d5-9257-2965519d0d66,5.64
 Gerladina,male,Gerladina Patington,Gerladina Guillford,once a day,found,749b0af5-2c27-4712-b1df-501e563952cd,Pink,145ab8c4-6b6e-4d8f-b510-ffb3650c9847,48.29
 Brucie,female,Brucie McGilvra,Brucie Keeting,every 4 hours,lab grown,74a241a8-734a-4988-befb-37edf9b56688,Goldenrod,7aaa9472-04b4-4d8d-83af-305b5275eb92,32.43
@@ -375,7 +375,7 @@ Elena,female,,Elena Trusslove,once a day,found,871ad82a-d9ab-4a4f-b637-e34e95fae
 Udale,male,Udale Normandale,Udale Golde,twice a day,stolen,87afa7d8-8f1e-4675-b442-d4da3b85d4be,Indigo,75e6c8b1-14bf-4aeb-a133-2500049dd53c,98.61
 Gilemette,female,Gilemette Minchinden,Gilemette Gorce,once a day,found,87c0cde8-d86c-4029-86be-7fc1a46a4d2c,Crimson,ebcf97a7-1cc7-4f9e-82bd-9c1ce2354c9a,11
 Heidi,male,Heidi Kleinfeld,Heidi Bader,every 4 hours,lab born,882c1f5d-dbf6-40f1-8829-e9cae5bb005a,Maroon,af64da4f-111c-4a67-a888-73f552483db8,72.98
-Yorke,male,Yorke Corthes,Yorke Guerner,every 4 hours,lab born,8830f428-d119-48f4-ad11-b4dbcee961ba,Red,0c157c53-6298-4de6-ad17-2bdb1580c6cb,65.53
+Pamella,male,Pamella Burnard,Pamella Pinner,twice a day,found,fc9b1a5c-1e8a-4af0-b0f5-d219c28bbd61,Red,58fafac1-b62d-4f97-a73e-26e68c1b6a99,0.19
 Burnard,female,Burnard Belfelt,Burnard Richly,once a day,,88ba3267-d5be-4f8c-bae5-90fde05a1a9b,Aquamarine,ce0fdf4a-4064-4435-8984-589475eb750b,20.25
 Kylie,female,,Kylie Minchindon,once a day,lab grown,89824000-336c-4938-abc9-f84596ae8878,Violet,266ce9a1-6d65-4da3-b34e-688a04c8b861,30.04
 Tonya,female,Tonya Bohl,Tonya McKague,,lab grown,89890fcf-00ac-407d-b969-14fbaaaeb2cf,Maroon,51ecc1df-479b-4ba1-a443-148a04a4a743,30.48
@@ -384,7 +384,7 @@ Llewellyn,female,Llewellyn Kemitt,Llewellyn Urry,twice a day,found,89c64d23-d7ab
 Marion,male,Marion Gippes,Marion Coldrick,once a day,lab born,89e46640-463e-4085-abdf-f2151aea34b4,Puce,a3d187b9-e335-4f6b-bc5f-27573a527cb9,13.35
 Griselda,male,Griselda Cleef,Griselda Sargood,twice a day,found,8a6309dd-3e45-4cde-a92f-767cded4a7de,Teal,6a9e99e0-9d6e-45c9-9f92-006113d12bb6,82.03
 Gabriel,female,Gabriel Weaver,Gabriel Davydenko,once a day,lab born,8a83df8a-f401-4926-b453-043fb4353368,Pink,06446eb8-6d03-4206-9c0f-e5b059092650,38.49
-Charin,male,Charin Whyffen,Charin Kyd,once a day,stolen,8b60154c-dad0-4b39-8e19-4289ad8f2db2,Red,b7d21e3c-964d-4e8c-b861-64f8c7544f3f,77.27
+Ricky,male,Ricky Schleswig-Holstein,Ricky Cordrey,twice a day,stolen,cfeb726a-603e-4b5c-b72a-17422e9d3542,Red,5c517d46-92cd-4590-bfd6-216fcc967a60,24.55
 Gwen,male,Gwen Spencer,,once a day,lab grown,8b6a8cfc-da2b-4980-9057-9f67976e3ab6,Pink,4b20b9b2-ee33-4d5c-8051-c88e651dfcfa,94.03
 Annadiane,male,Annadiane Clemensen,,,stolen,8bccf179-5650-4086-83b1-1274fe427eff,Mauv,d539e9d3-a2e3-4f66-a1f6-567f465e2a41,40.34
 Masha,male,Masha Goggan,Masha Fereday,,stolen,8bfcfc70-0bd7-4345-8c40-97f63d407cea,Green,8a200369-a8d6-4ed5-9f81-fc2a232d5e9c,69.17
@@ -410,7 +410,7 @@ Rafe,male,Rafe McKoy,Rafe Kelsell,twice a day,stolen,91c5913a-1cf2-4184-9dae-65c
 Simeon,male,Simeon Higbin,,twice a day,lab grown,922719ae-4246-47bb-bbd3-95fbe3686fd4,Khaki,af652085-5766-408f-8b7f-43e46229b0f3,27.52
 Maryellen,female,Maryellen Forlonge,,every 4 hours,stolen,9255d1da-9d72-4d90-8102-7d54b2e17c2a,Khaki,b31ed6f8-d35f-41d9-9d0c-858f6d8376f9,70.57
 Lynnette,female,,Lynnette Imrie,twice a day,lab born,92fd8eec-d323-4448-a664-6ae5d8830523,Khaki,63190a10-9bde-441a-ba17-c533503a92f9,84.98
-Tom,female,Tom Muffett,Tom Rought,every 4 hours,,932be4e7-ffba-48b4-976b-776ad3e03887,Red,ee7e972f-008f-4acd-9331-92a15ef89c1b,26.05
+Belva,male,Belva Warters,,,lab born,5d10f236-a94f-4384-a8e2-728fd79ea8b2,Red,5fa18cd1-cc8e-4b62-b72d-c82c72306009,7.1
 Devora,female,Devora Ambler,Devora Pevsner,once a day,found,938f7219-b495-4188-84ca-17694ee51875,Green,f5c0917b-3d92-414e-a3a0-4a85f87b6101,8.19
 Bar,female,,,,lab grown,948c7113-5e4f-408a-ba4f-dce5d2fe83a5,Purple,82742d42-ebc5-4461-8c75-27d400039b59,48.61
 Joseph,male,Joseph Genge,Joseph Springthorp,once a day,found,94fce3a2-e4d5-4174-8487-505ccf11f42d,Violet,927ba07a-b939-4145-80c4-f08f49a891da,19.88
@@ -427,7 +427,7 @@ Abner,female,Abner Mccaull,Abner Heppenspall,twice a day,found,997697af-746c-449
 Dionne,female,Dionne Filipczynski,Dionne McNab,,stolen,99e86a7b-438c-4f4d-ad4b-c339fcfd6e78,Teal,923bbf68-a6db-43b2-8224-28102f0501e8,99.06
 Enrika,male,,Enrika Heiden,once a day,,9a33d58a-4fb8-4e58-a373-9e2906045f26,Crimson,4d808328-64a9-43fc-bc98-c209f62b8cfe,25.03
 Kipp,male,Kipp Douty,Kipp McKernon,twice a day,lab born,9a5d225c-ee46-488f-837e-25b2c8f3ce50,Crimson,f95ecb3f-7602-45e1-b61b-10b86e32429d,83.79
-Joya,female,Joya McNicol,Joya Abarough,twice a day,found,9ab4c768-aa2f-47dd-bd91-15857b9404c9,Red,97f7d48c-e2a5-419f-b5a5-e65849cedcab,3.98
+Sigfried,female,Sigfried Eddie,,once a day,found,11fa19f6-9daf-4f08-865e-b23661df843d,Red,60cd7525-3231-407f-b068-f43dbf043713,15.21
 Carling,female,Carling Hehl,Carling Corston,once a day,stolen,9afcda79-f7f9-4060-b4d3-127686427dd2,Purple,71d33611-8185-4f1c-9dde-e02710681076,33.21
 Adolf,female,Adolf Woollard,Adolf Moulsdale,every 4 hours,found,9b2b5153-e05b-4cea-95a9-16ef2fd5297e,Indigo,497bdaf0-9a2c-440c-ac2c-318d63db7887,67.88
 Roanna,male,Roanna Jiruca,,twice a day,stolen,9b90b978-5d17-46d0-9b9e-a3e3e0dd79da,Mauv,2f5d552e-25d6-4659-bf79-223e41e8d146,42.43
@@ -445,7 +445,7 @@ Koren,female,Koren Escalera,,twice a day,found,a160f60b-3ba6-4f4e-a39c-538ff7ee9
 Florencia,female,Florencia Blewmen,Florencia Ciani,every 4 hours,lab grown,a1bd805a-33ed-4f16-a10f-e47cf68d1479,Goldenrod,b54e6a48-c4c3-47db-8f0a-4846249d1d2a,33.7
 Morgan,male,Morgan Hallihan,Morgan Sillito,twice a day,stolen,a1c5ab34-f7c7-4a83-b904-6b52cdcb2a25,Khaki,71e5d64a-1513-4b72-a9be-12abc4802041,86.05
 Rozalie,male,,Rozalie Fagg,once a day,lab born,a1f2c731-f5cb-4330-8bbc-67da2d1f883b,Khaki,6541274b-8d1f-4789-b8ad-03a45685faee,80.44
-Cathi,male,,Cathi Cottell,every 4 hours,found,a20d6947-3c29-4633-8319-4387ee78ac36,Red,6ea00fff-c53e-46a5-a214-d15ac71f3656,21.6
+Fleur,male,Fleur Catlin,Fleur Echlin,twice a day,lab grown,73c8b32d-3224-4fb2-ad3e-927942d1ebb4,Red,61f1cadc-97b7-41a7-b8a6-bc5f3c6caaa5,95.26
 Roxanna,male,Roxanna Wride,,once a day,found,a2a08e49-72a9-4e07-b4a7-d8503c07e5b7,Green,d067704d-9f5b-4370-a382-7979fd2296bc,29.99
 Janella,female,,Janella Macias,,found,a36b4943-d2b8-47e7-86e0-15c1a228d8ef,Aquamarine,28082278-f35e-49dd-b0bd-feaa1376038a,28.54
 Olympia,male,Olympia Tremolieres,Olympia Hatwells,once a day,lab grown,a3c42bdf-7f3d-4961-941d-95cece328f85,Violet,21433909-5a88-4332-b93e-b4108f72bc78,12.21
@@ -485,7 +485,7 @@ Tonye,male,Tonye Wilsone,Tonye Spon,twice a day,stolen,aef1c646-26d4-41b3-a995-3
 Dewitt,male,Dewitt Rosenboim,Dewitt Fellgatt,once a day,lab born,af1766ef-436d-4ea5-9be2-80b81ede819a,Yellow,b09c4420-860c-44da-ad17-867290f29417,43.46
 Donall,female,,,twice a day,lab born,af6d2a1a-3448-4eb7-8dbf-8fdf487d092a,Turquoise,86cb0fcb-c3a4-473a-b42f-d6ef132688f3,47.05
 Leon,female,Leon Liverseege,Leon Scully,once a day,stolen,af75a2ce-0986-48dd-8bac-d8016acf627c,Violet,73ea9f56-3eb6-4a2a-913e-e1ab7edcba97,6.42
-Giovanni,male,Giovanni Maginot,,every 4 hours,found,b01b8301-d36e-4145-8a3a-6bc0d0a4adeb,Red,b94d53ac-58df-4ffb-bf68-f35947276732,26.89
+Malcolm,male,Malcolm Giannotti,Malcolm Rosenboim,,lab grown,2c808fb0-fcd9-434f-a4a5-e5a6357c26c8,Red,6c698e58-c681-4a6c-9ff2-4c44168df05b,42.7
 Deanne,male,Deanne Managh,Deanne Kembery,once a day,lab grown,b0456196-43e9-41ec-92d3-9ad0bd63c4f0,Puce,c6e49a51-4451-4746-84c5-18f469325204,51.58
 Crissie,male,,Crissie Fley,,found,b19483db-6b0f-4b20-b5eb-6a11dccfc2ae,Teal,3e29988b-8807-491f-ae88-1da9589ac364,46.93
 Zora,male,Zora Ewin,Zora Diggell,every 4 hours,stolen,b221118c-7807-4331-aee5-f7b06f5d7bce,Goldenrod,f0ee7321-c4b0-4f05-8498-c436644f680e,41.68
@@ -498,11 +498,11 @@ Marlena,female,Marlena Exell,Marlena Agg,twice a day,stolen,b42c96e6-ee7b-4d21-8
 Edy,male,Edy Lutz,Edy Hardwidge,,lab born,b4425a07-19ed-4e32-8dc1-8e1f04113bef,Indigo,80e4ab64-b867-4495-8d1a-eae83604dac6,67.05
 Leonhard,male,Leonhard Huscroft,Leonhard Jagg,once a day,found,b457eaf6-0f79-41d5-97f4-8b2effb3ad2b,Blue,398fe1d9-a880-4fcc-96fe-d615d5016d61,79.36
 Kimbra,female,,Kimbra Andrin,twice a day,found,b4ad7759-e17f-4cd2-8190-f1921812e9ce,Green,fe2fabf8-c430-4a96-82db-8016ca8da00e,49.69
-Grete,male,,Grete Stegers,every 4 hours,lab grown,b642541e-00ca-415f-919a-969f226b832e,Red,b70b615d-dae7-4226-af72-a29a36b4067a,0.23
-Myron,male,Myron Dobbin,Myron Nehlsen,every 4 hours,stolen,b77424a0-bdfd-41df-aec3-57d0735f0571,Red,c6418a48-9f0a-4a55-a894-53e7f9356ed5,91.64
+Cathi,male,,Cathi Cottell,every 4 hours,found,a20d6947-3c29-4633-8319-4387ee78ac36,Red,6ea00fff-c53e-46a5-a214-d15ac71f3656,21.6
+Caldwell,female,,Caldwell Fahrenbach,twice a day,lab born,9b90b978-5d17-46d0-9b9e-a3e3e0dd79da,Red,729f4ed4-e443-4bc5-b549-39e482912d79,14.6
 Blinni,male,Blinni Holligan,Blinni Rominov,twice a day,lab grown,b7cbed09-bb66-4701-8070-708a7a37f16d,Orange,f88efdb2-6848-4418-8e04-556c493b91ab,96.57
 Rene,male,Rene Hatliffe,Rene Greenshields,once a day,lab grown,b7e0b7fd-8eb8-4b04-a985-4bdd4882adb4,Fuscia,bb546fea-7c94-4f8d-8858-c03836c84758,17.5
-Katharyn,female,Katharyn Crofts,Katharyn Drydale,,stolen,b8041034-410b-43b3-8e92-aae95075d976,Red,4d60c1bb-530f-4890-8401-8249fdfe05b0,80.05
+Rakel,male,,Rakel Prator,once a day,lab grown,46a7112b-e268-45cb-a526-d947b686530a,Red,7797579a-49c8-4e0a-a906-6587dc5d7122,95.31
 Dulsea,male,Dulsea Mansel,,once a day,lab grown,b8097cb8-8622-4415-a967-e88ce90b2e1d,Blue,43476e0a-52be-4edc-b6cb-15a058fbae81,72.41
 Sabra,male,Sabra Eby,,twice a day,lab born,b809940d-ec5e-4d20-889a-9cd5254c7f67,Mauv,5fd515f2-5c3b-43c8-9fb9-54fc7ccf10a0,57.63
 Heddi,female,Heddi McKinnon,Heddi Yakobovicz,,stolen,b8317610-fb96-4b6a-ba5e-2237d46a1341,Teal,e52fa340-d63e-4475-959d-794a94eb386f,13.4
@@ -523,7 +523,7 @@ Les,male,Les Croshaw,Les Starr,every 4 hours,lab grown,bd970410-ec76-457f-af5e-1
 Skell,female,Skell Geator,Skell Boss,once a day,found,bdf6cab1-f787-4147-86e9-26b2234bee45,Purple,27f667ad-81de-4f3d-b095-6b8dff8550de,20.41
 Wylie,male,Wylie Jancik,Wylie Bernardoni,twice a day,lab grown,bdf9ed99-d42d-41c1-bf96-b179c37b50e9,Mauv,634b26b8-7bfe-432c-a507-7a600df413c7,74.5
 Laurent,male,Laurent Vatcher,Laurent O'Luby,every 4 hours,found,be5757ee-bfc9-4592-8884-045c4b4d6f0d,Indigo,efe4e445-ccfb-460b-b4d7-5da24c8afd2c,78.89
-Brooke,female,Brooke Backen,Brooke Klasing,once a day,stolen,bf9166be-d7da-4b66-9326-621ef1167b82,Red,a6d4661d-38b1-4903-90c4-4a39c744b228,22.9
+Olimpia,male,Olimpia Immings,Olimpia Salamon,once a day,lab grown,01217728-c621-4039-9cbc-e8177e5d63f1,Red,7d91017e-b06c-419c-8bd0-fef3a71b7ea1,75.55
 Janaya,male,,Janaya Aldins,twice a day,lab born,c11f9dad-1dd0-491a-9ea1-9909811f4c41,Purple,f9617c27-45f2-44b1-8a72-6c8e058c2963,40.6
 Inessa,female,Inessa Petkov,,every 4 hours,lab grown,c12ef133-e4d5-4aee-8fd3-3ee4cc1e67c0,Yellow,67485740-9202-4bf8-aa73-3bfb09a56b38,27.48
 Donny,female,Donny Hedge,Donny Butterick,,lab born,c14c892a-843f-4294-9f20-7a3863357141,Mauv,97e7c22a-75ac-43b8-bac6-b12e69f729fc,71.41
@@ -558,7 +558,7 @@ Anna,female,Anna Slight,Anna Gildersleaves,,found,ca5c4f71-da3c-4fab-a9c9-60da11
 Antony,male,Antony Garrad,,,lab born,cb3a9da4-07b0-4969-9810-1505108d79d9,Green,1752ecfc-5e05-4f86-bd69-2b5d6fe835bd,96.52
 Binky,female,,Binky Tomisch,twice a day,lab grown,cc34998d-b268-4377-b6d6-7135b8b991bf,Fuscia,56f5660a-e38b-46a6-93c2-d8264a8f15cb,65.67
 Catriona,male,,,twice a day,stolen,cc35c7c8-0a74-41e0-92c8-ad76ecb9fdcc,Mauv,76bd00b4-07d4-45e9-b554-fe29cfde18f4,5.95
-Wallache,male,Wallache Cossell,Wallache Arlet,,lab grown,cc9e94fe-e4db-4c10-8a0c-a263bd5e8c3d,Red,2d9421d1-bb49-4bc3-bdad-da65a047201d,54.95
+Svend,male,Svend Cheney,Svend Evison,every 4 hours,lab born,cb3a9da4-07b0-4969-9810-1505108d79d9,Red,7f681ce2-6360-46b5-979e-781dae3ab59f,10.4
 Stern,male,Stern Karsh,Stern Santello,every 4 hours,lab born,cce84cc4-78f2-4e82-afe2-a14f18e91e06,Mauv,7264530c-9944-4454-9e45-5b68659b3fe1,2.29
 Cecily,female,Cecily Purslow,Cecily Jent,once a day,found,cd4c6f10-0c3e-48a5-a0a4-2b7beec4b044,Teal,be89ff30-2b7c-42fa-8776-467886239cd5,49.92
 Sheri,female,Sheri Brewett,Sheri Oboy,every 4 hours,stolen,cd576b71-15aa-4a12-9d01-a34379abd608,Teal,e39289c7-db4d-47a3-9b2f-c4b5e7a4cce3,63.46
@@ -572,7 +572,7 @@ Penrod,male,,,once a day,stolen,cf698d71-8408-4d70-a0c4-a47588a04574,Green,73d03
 Franklin,male,Franklin Dilgarno,Franklin Teall,every 4 hours,stolen,cf8491bc-0316-407d-91a3-80b72f9731b6,Puce,38d89711-7c89-4183-8927-e572c5142588,63.61
 Heather,female,Heather Mountcastle,Heather Geeraert,every 4 hours,lab born,cf91e363-a44e-448a-b4d2-95e70307db09,Goldenrod,d23ea6f7-8a9c-4d94-915d-b74f547f502c,91.97
 Olivette,female,,Olivette January,twice a day,found,cfd5c002-f578-4c96-895e-715c592da05e,Blue,ffcaf55a-d8f7-410c-97d0-9643e321328c,55.18
-Ricky,male,Ricky Schleswig-Holstein,Ricky Cordrey,twice a day,stolen,cfeb726a-603e-4b5c-b72a-17422e9d3542,Red,5c517d46-92cd-4590-bfd6-216fcc967a60,24.55
+Brucie,male,Brucie Jelk,Brucie Parfitt,once a day,lab grown,2e96dacc-61d3-4f1c-a657-855fac4779b4,Red,8b8791d3-6713-46b1-b848-5de111c2b576,27.92
 Noach,female,Noach MacKeever,Noach Christley,twice a day,lab born,d0277093-3fff-4ba0-b0b1-23abc276f542,Aquamarine,74c31c30-1ea6-4360-a39e-0ad7a750ea14,72.88
 Grissel,female,Grissel Feechan,Grissel MacMenamie,twice a day,stolen,d0639c3f-263c-46f5-bf17-526dfc547f1b,Fuscia,567c516c-3afc-4ef7-a1cc-52a256830f20,30.76
 Barth,male,,,twice a day,lab born,d076b767-63b6-422b-a274-4be215f3e85e,Fuscia,4fd3d38e-cc16-4498-a1be-c6a78f7f3321,2.24
@@ -583,13 +583,13 @@ Katharine,female,Katharine Manklow,,twice a day,lab grown,cb3a9da4-07b0-4969-981
 Godfree,female,,Godfree Lifsey,twice a day,lab grown,d2626995-c89b-4126-97d3-743eab9389e7,Blue,dc7e269a-7973-43f4-accb-ac94f2b0eb4a,1.45
 Lavinia,male,Lavinia McCaughey,Lavinia Golt,every 4 hours,lab born,cb3a9da4-07b0-4969-9810-1505108d79d9,Purple,e5643196-d559-4dbe-94d9-d6ca56a4966e,14.23
 Erinn,male,Erinn Duker,Erinn Cottham,twice a day,lab grown,d2d1437c-83e4-439e-84f9-7d94beb66bd8,Teal,c8327583-4972-43e7-b67b-6f9de0825332,17.68
-Svend,male,Svend Cheney,Svend Evison,every 4 hours,lab born,cb3a9da4-07b0-4969-9810-1505108d79d9,Red,7f681ce2-6360-46b5-979e-781dae3ab59f,10.4
-Glenda,female,Glenda Crab,,twice a day,lab born,d3bf7e12-016b-4196-bcb1-a6c08d2f1a56,Red,d1937be9-f230-481d-8e94-d71ba3bf4198,96.66
+Korella,male,Korella Hanselmann,,every 4 hours,stolen,dc6e29df-0bcb-4415-bdb7-18445fa64f28,Red,8bcd61ba-8986-470b-8cb2-342a467c5876,75.87
+Joya,female,Joya McNicol,Joya Abarough,twice a day,found,9ab4c768-aa2f-47dd-bd91-15857b9404c9,Red,97f7d48c-e2a5-419f-b5a5-e65849cedcab,3.98
 Willow,female,Willow Blyth,Willow McShea,every 4 hours,found,d3f45655-71ef-4c49-ab35-b64cf8c165e9,Green,08388eea-5dcd-40ec-8436-c85fa27c5fc4,0.49
 Celesta,male,Celesta Halliberton,,once a day,lab grown,d4496212-bb97-4aea-9c43-49e7f44ebcdc,Teal,76933084-7210-4ebd-8be9-09bd7608694e,21.24
 Enrique,male,Enrique Jenkerson,Enrique Lambot,every 4 hours,stolen,cb3a9da4-07b0-4969-9810-1505108d79d9,Crimson,3c6bc51c-9bcf-4eaf-9a1d-77f6afe7f269,20.71
 Arlena,female,Arlena Gilmore,Arlena Viner,twice a day,stolen,d4b61cbb-368b-4b12-aa79-70d450c6a26e,Orange,518d54b2-f26a-48fa-a50d-67746decbf82,68.27
-Sabine,male,Sabine Cattach,,every 4 hours,found,d5451e7e-3ce8-41be-adc5-e4686ca3516e,Red,2e5a131d-c00a-4b2b-ada5-b3ed8168f194,78.08
+Briny,female,Briny Baulk,,once a day,stolen,3037ca3d-01a5-4d1c-a063-2fe665e5796c,Red,9935ed8b-042a-4446-94b3-d182a566ae94,83.52
 Kurtis,female,,,every 4 hours,lab born,d5589052-1c6e-4cb1-923a-81b55fc89cda,Maroon,d9908782-261f-49fd-8625-18ccf057a37e,58.7
 Nadia,male,Nadia Granger,Nadia Lages,once a day,lab grown,d57a5189-d135-49b8-b614-d5e055665390,Mauv,f1cd3305-f74c-43ba-ab8a-dd2c7aa78721,68.61
 Vanni,male,Vanni Gee,Vanni Kilby,,stolen,d5f71dca-56ff-49f1-a796-8111f8ce3e9c,Teal,6ce85272-6cee-477a-a615-3e83326ae40c,65.38
@@ -613,7 +613,7 @@ Scarlett,female,Scarlett Bettis,Scarlett Milam,twice a day,found,dacee165-3883-4
 Tessi,female,Tessi Grubbe,Tessi Laird-Craig,once a day,lab grown,db6b6ce2-6b57-418a-a664-f8127b5d22af,Blue,2e4721a2-0601-4f04-bd15-496f77886dff,74.59
 Cesya,female,Cesya Woliter,Cesya Bamell,once a day,stolen,db899d75-ec06-441b-9908-5cbbfa23e046,Goldenrod,17b7d9cd-07f0-47a2-97f4-e40abb9d7503,14.99
 Obie,male,Obie Primmer,,every 4 hours,lab grown,dc5b6c3a-ea7b-4f08-8811-fbd819652c7d,Indigo,8f087184-7428-4844-8120-11b2f8eef3ab,62.77
-Korella,male,Korella Hanselmann,,every 4 hours,stolen,dc6e29df-0bcb-4415-bdb7-18445fa64f28,Red,8bcd61ba-8986-470b-8cb2-342a467c5876,75.87
+Brooke,female,Brooke Backen,Brooke Klasing,once a day,stolen,bf9166be-d7da-4b66-9326-621ef1167b82,Red,a6d4661d-38b1-4903-90c4-4a39c744b228,22.9
 Marjory,male,,Marjory Benardet,once a day,lab born,dc980368-bf97-4351-84a4-5508f5d03ef7,Yellow,1b283acd-9352-4b68-99d9-01c870413bdb,13.23
 Billi,male,Billi Roelofs,Billi McFaul,every 4 hours,lab born,dd378c5a-5e1d-49e5-b80b-66a5fe2b3e4c,Fuscia,ee603771-a932-499c-84e1-e9b2574ba94f,84.92
 Ruttger,male,Ruttger Pellingar,Ruttger Nodin,,lab born,dd5c6cf1-8c36-4d93-a6e7-5a280fa41b1c,Blue,411aabcc-ca56-4b58-8419-207d05772456,95.42
@@ -629,7 +629,7 @@ Linnet,male,Linnet Roycroft,Linnet Jeppensen,once a day,stolen,df0ed9bf-9d2c-46c
 Nina,male,Nina Slator,Nina Wollard,once a day,lab born,df62b68b-e629-4794-8e23-b1c2bee351d7,Teal,104ff5f2-d020-41ff-838b-f44a21d28811,1.85
 Stanley,female,Stanley Dumberrill,Stanley Roisen,every 4 hours,stolen,df92d239-e8bb-451b-af22-f5d7bdea236e,Pink,8cb0866d-d5a9-484f-b847-02ed72354952,9.06
 Justinn,female,Justinn Chasen,,once a day,stolen,dfa6578d-9e30-46f4-a179-9547e59ecd89,Fuscia,86d309d0-7df1-400c-a46e-58d7241cc35f,76.81
-Annice,male,Annice Ashlin,,every 4 hours,stolen,e0632261-c189-49fe-b1f0-30364ef69107,Red,35a89b0f-8027-42b6-a65a-ad884dc3d722,64.42
+Constancy,male,Constancy Normandale,Constancy Baunton,twice a day,stolen,7a810f42-e970-4d11-aec7-484e2d76e9c2,Red,b431a77d-bf69-4a74-b4d1-97cb08e0c1a2,52
 Kore,male,Kore Cartmel,Kore Arndell,every 4 hours,found,e070303d-0ccf-417e-b165-2a4eed785a8e,Mauv,508bc69d-0bbb-4ebc-8862-102e5c5e983a,22.53
 Clemente,female,Clemente Goadsby,Clemente Livens,,lab born,e0875a22-8e10-44ef-869b-6114e0c7def1,Khaki,f627dc70-9984-45ed-91c9-b4004ec3c08e,25.53
 Eustacia,male,Eustacia Eatttok,Eustacia Queree,every 4 hours,found,e1ce830b-178c-437d-9430-3d53b7efb688,Indigo,4ec45ae1-bcfd-4a53-a3df-80ee6b8b5414,46.53
@@ -639,7 +639,7 @@ Elston,female,,Elston Lidgey,every 4 hours,stolen,e2e010ea-9137-48e4-9900-761e56
 Gabbie,male,Gabbie Phateplace,,twice a day,lab grown,e2fc1790-6014-4a98-80f3-cba0a6f0af5f,Teal,22fbb17f-2b1a-4af0-8e6e-6500961b4723,44.76
 Graig,female,Graig Molnar,Graig Goforth,twice a day,lab born,e3710a6d-14d0-4fb1-824b-1fe4ed4eefbd,Violet,e5e82032-94b1-46a8-8249-ae52ca78d9a0,63.32
 Umeko,male,,,once a day,found,e3824efe-0710-4034-82f4-053e75936edf,Yellow,a434678e-a076-49d0-894d-8532aade946f,50.66
-Tabor,male,Tabor Renols,Tabor Wainman,once a day,lab born,e4ad8e5a-889b-45cf-8fdd-7656eaf3d69b,Red,daa6de27-9052-4a7a-98e1-398cca6715e4,35.58
+Grete,male,,Grete Stegers,every 4 hours,lab grown,b642541e-00ca-415f-919a-969f226b832e,Red,b70b615d-dae7-4226-af72-a29a36b4067a,0.23
 Tabb,female,Tabb MacCauley,Tabb Armiger,twice a day,found,e5fd651d-2114-44f1-aca5-30bac651e87d,Mauv,d14a2839-975f-4d12-bbe9-9972ff67cdc7,97.74
 Kristos,male,,Kristos Gheorghescu,,lab grown,e6754614-d058-4412-a0cc-0ff1f95ac890,Crimson,84de3a57-9ece-4887-998d-8b3256fd4079,46.42
 Carce,male,Carce Jewkes,Carce O'Shesnan,once a day,stolen,e688abcc-6749-489c-b597-0c2bdb50fb18,Teal,72df920c-d22a-4fe8-abfb-39b13814e125,46.09
@@ -665,12 +665,12 @@ Pippo,female,Pippo Lorrimer,Pippo Haseley,once a day,stolen,ed73da7d-df1a-48fd-a
 Terri,male,Terri Hewkin,Terri Mayho,once a day,lab born,ed86bfd7-ccb8-4937-9c8f-398882db4591,Violet,ef2b0cba-d631-474b-987d-c0651258a151,82.35
 Nathan,male,Nathan Galia,Nathan Lafontaine,every 4 hours,lab born,cb3a9da4-07b0-4969-9810-1505108d79d9,Goldenrod,15c96f32-f821-41f8-94dc-b185befafdba,56.87
 Gray,female,,Gray Maytom,twice a day,found,ee649f56-123d-4926-8277-bea820839bce,Maroon,c6616780-a7d7-449e-8a8b-545e72f9bea9,40.08
-Midge,male,,,every 4 hours,lab grown,eed561f8-7c08-4941-a0c7-800b8708c4f5,Red,54b13396-ee80-4a27-8e81-71c53cba755c,15.79
+Charin,male,Charin Whyffen,Charin Kyd,once a day,stolen,8b60154c-dad0-4b39-8e19-4289ad8f2db2,Red,b7d21e3c-964d-4e8c-b861-64f8c7544f3f,77.27
 D0mini,female,Domini Kla15,,ev3ry 4 hours,stolen,cb3a9da4-07b0-4969-9810-1505108d79d9,Teal,e1be2f42-f9df-478f-83ae-135590f4150a,44.1
 Leslie,female,Leslie Kettley,Leslie Jaffray,,found,ef3bf0eb-ba3d-4cd6-8946-e84d73157311,Orange,7cde7725-4ea6-4049-b188-bc799e29dea8,3.21
 Maureen,male,Maureen Cudihy,Maureen Skelcher,once a day,found,f015c928-445d-49f6-8240-90ea5bc70ebc,Green,3f74be40-9bce-47c7-9c94-5b02b43cd920,50.4
 Justinn,male,Justinn Eassom,Justinn Groocock,once a day,stolen,cb3a9da4-07b0-4969-9810-1505108d79d9,Khaki,28ae9684-ad27-4f66-9fe9-6b870104d689,20.75
-Nickie,female,Nickie Hackey,Nickie Martinie,once a day,lab born,f0b83cde-1ea2-4d57-b770-bfc0129639cb,Red,33c673fd-1ad0-4978-bbb5-978333845402,99.51
+Giovanni,male,Giovanni Maginot,,every 4 hours,found,b01b8301-d36e-4145-8a3a-6bc0d0a4adeb,Red,b94d53ac-58df-4ffb-bf68-f35947276732,26.89
 Giacopo,female,Giacopo Vogele,Giacopo Peery,once a day,found,f173f09c-ebe7-4054-97e3-8072b3e59d43,Purple,3909672e-d502-4479-9d3e-3ba68dfb8986,39.76
 Aeriela,male,,Aeriela Heaseman,once a day,lab born,cb3a9da4-07b0-4969-9810-1505108d79d9,Goldenrod,32be6875-e225-4491-9592-4983ac5ce698,21.82
 Casie,female,Casie Vondra,Casie O' Quirk,every 4 hours,lab grown,f1a31a16-2f42-4b2f-98a2-0d6cc3f51057,Aquamarine,ce523eee-7725-4b0d-9889-1070dded2c2d,53.41
@@ -701,7 +701,7 @@ Mei,female,,Mei Schnieder,once a day,lab grown,fac7dd71-d0e5-416a-a943-d038da052
 Padgett,male,,Padgett Joisce,twice a day,lab grown,fb10ddd0-d8fe-4b5b-9898-1714c4cab546,Mauv,c787a844-1c31-4396-8911-d62ab2bd7cd9,18.6
 Douglass,male,Douglass Greer,Douglass Jellyman,every 4 hours,stolen,fb3169a8-9bb0-46e7-997d-9dd4b57cb0ac,Yellow,9b049383-95a0-42e4-89f8-775da8568336,83.8
 Joan,male,Joan Sattin,Joan Clouter,every 4 hours,found,fb7be688-2d66-405e-98cf-11eda83c9505,Aquamarine,19df5056-c0a6-4e15-ae8b-2c12eb9d77a7,26
-Pamella,male,Pamella Burnard,Pamella Pinner,twice a day,found,fc9b1a5c-1e8a-4af0-b0f5-d219c28bbd61,Red,58fafac1-b62d-4f97-a73e-26e68c1b6a99,0.19
+Eleonora,male,Eleonora Thorlby,Eleonora Allbones,once a day,found,6c58ad14-bda9-446e-a4a1-dd72f7ef3d10,Red,bafffcaf-9048-4381-810a-db808d524c7c,45.18
 Holt,female,,Holt Dyne,every 4 hours,found,fca31077-bf86-48d1-9e57-d5157fcd5e3c,Mauv,22979dab-2b32-4a7f-9a9b-b4367d592366,25.4
 Joleen,female,Joleen Lavrick,Joleen Kersey,every 4 hours,lab born,fd1ce171-2d1d-49d0-9510-426e1fcc5f96,Orange,a6efefa7-7926-4fc9-90b0-4c926c54681d,49.05
 Janessa,male,Janessa MacSwayde,Janessa Urling,once a day,lab born,fdac6582-27bf-41ea-83f3-8ebe90d82ac0,Pink,28e6d2f0-fa88-4385-8cc9-9494d2482774,41.9
@@ -744,8 +744,8 @@ Padget,male,Padget Caris,Padget Pinhorn,twice a day,found,f2620355-12b1-424c-a44
 Phineas,female,Phineas Showen,Phineas Pulver,twice a day,lab grown,f2aaa6aa-d281-4e25-bfa8-f11e1ceeee5b,Khaki,70f07184-dbd1-485f-8ac1-71200c709575,31.92
 Gregg,female,Gregg Duffill,Gregg Botfield,,lab born,f2c9fa57-afac-4f92-bb02-2f669ba7080e,Fuscia,c542cb26-76eb-4f73-a53c-4a93085440d2,12.15
 Valina,female,,,every 4 hours,found,f37206d8-155e-4adb-9c80-5a2cecc8db0a,Mauv,eac8e7f6-ede3-40eb-876d-aff752e54d14,25.34
-Jasun,female,Jasun Bernardeschi,,twice a day,found,f38daa0e-368a-42f5-917a-5f34503d57e3,Red,e25290cd-6fa1-42a4-b44f-839cef93e663,45.63
-Thorsten,male,Thorsten Cosgrave,Thorsten Simeons,once a day,lab born,f3fc222a-0471-45ad-91d1-41f1d78d4850,Red,37a82563-8f1d-434f-8b17-19a1344c99c7,23.27
+Rafaelita,male,,Rafaelita Rickaert,once a day,found,362523ba-f972-4d78-9086-398f7590ccc7,Red,be9a1064-64bf-4f73-b739-b904cb03ff93,3.86
+Myron,male,Myron Dobbin,Myron Nehlsen,every 4 hours,stolen,b77424a0-bdfd-41df-aec3-57d0735f0571,Red,c6418a48-9f0a-4a55-a894-53e7f9356ed5,91.64
 Thatcher,female,Thatcher O' Faherty,,twice a day,lab grown,f42049f6-6e74-49ca-ba15-727da6344e2b,Crimson,262c2ae2-219d-4b38-9e1f-fd32061ae6a8,1.58
 Gustav,male,Gustav McIlriach,Gustav Gimenez,,lab born,f462ed79-1214-4de9-a1ab-99e93d08783f,Khaki,de415534-f7fa-4505-b3f7-8b06eb8ed85c,40.95
 Fay,male,Fay Hobell,,once a day,lab grown,f4c452d5-bc56-40a4-bb4a-2111762b4694,Maroon,d7e2193c-fbb4-411a-9542-7c0d0526d7cb,89.6
@@ -763,7 +763,7 @@ Giralda,male,Giralda Baughan,Giralda Crowley,every 4 hours,found,38953371-9691-4
 Garik,male,Garik Ohlsen,Garik Lagadu,once a day,lab grown,38bad0ae-c3b1-43fa-a943-7d6616017891,Crimson,aef7bb7a-1e82-400e-a873-32472d786c6c,96.12
 Benton,female,Benton Gleasane,Benton Biggerdike,twice a day,lab grown,39088744-2c87-48fa-86fa-604bdcdd975a,Pink,4b6a1be9-8716-4578-9a72-fa0e655b013f,20.1
 Angelina,female,Angelina Scartifield,Angelina Ravens,,lab born,3933baf4-4f0f-49f3-9759-22cffc37e103,Purple,13a92aee-5cb3-44f3-a2d6-7ebd82a9da07,6.32
-Binni,female,Binni Laminman,Binni Banks,twice a day,stolen,393e71b1-f4c3-436b-9aad-bf7368a69d23,Red,26ee6e2d-7cbc-4794-ab7f-09f25d8fdc14,20.31
+Ariana,male,Ariana Puttergill,,once a day,lab born,53c56f09-a98d-4614-a7ff-b35ff218d463,Red,ce6e9872-07c1-4245-9cb4-222c35ce3e59,13.11
 Shayne,female,Shayne McNally,Shayne Andric,once a day,found,39c1b230-0b9b-4af3-a9aa-b3030c5deaf4,Mauv,908c1cc2-ebed-492f-a470-50d70db433d4,63.13
 Almeta,female,Almeta Caldecot,Almeta Bambrick,once a day,lab grown,3ab15a73-6ee5-41a6-a585-95ee96751199,Teal,fc56d211-440e-49a3-ae85-45afb38261c1,37.34
 Maris,female,Maris Lauret,Maris Arne,twice a day,found,3abe9d53-2dbd-49cc-ba21-dbe84b12c77f,Fuscia,3893f698-29ac-49e3-b63f-15c4cbdbfcfd,55.2
@@ -781,7 +781,7 @@ Roseann,male,Roseann Lambol,Roseann Vowdon,once a day,lab born,3ec39827-3861-474
 Cyndie,female,Cyndie Adamini,Cyndie Stather,twice a day,lab born,3eefdb74-8dc4-47ab-a6e1-909126bc9dd7,Fuscia,5112600f-d600-4ec4-9ee5-9ffff6ddba5b,70.22
 Iorgos,female,Iorgos Wretham,Iorgos Hoult,twice a day,stolen,3f0cd2ad-5a24-49db-b581-338cfedeb15b,Violet,22767d97-65aa-46fb-81d7-3d5eda2a96a2,99.82
 Minnaminnie,male,Minnaminnie Crush,,once a day,stolen,3f898590-6e88-4efe-9c23-48aed591a8c6,Teal,18c5f281-26b3-4b6f-9d3b-87a4e451e6f2,47.57
-Marti,male,Marti Veal,,once a day,stolen,40798500-dc96-4c6d-a15c-c33379637775,Red,df856399-1c1c-4b38-9db8-3b8eceba0d85,4.76
+Glenda,female,Glenda Crab,,twice a day,lab born,d3bf7e12-016b-4196-bcb1-a6c08d2f1a56,Red,d1937be9-f230-481d-8e94-d71ba3bf4198,96.66
 Corenda,male,Corenda Kline,,,lab born,74a241a8-734a-4988-befb-37edf9b56688,Purple,9dfb9060-c6f6-4cba-8c16-1066af0eae5c,2.11
 Mona,female,,Mona Shefton,every 4 hours,lab born,752a8bf0-042b-42f3-8b49-0cc65642141b,Pink,01ceaaa5-30ae-41c3-bd1d-8882fc8ebaa6,5.88
 Judah,male,Judah De Maine,Judah Fouldes,once a day,lab born,753067c8-016c-4d60-a554-311a94586829,Mauv,d2db18a2-1377-44b4-ad36-d2b21f640c7a,14.3
@@ -794,13 +794,13 @@ Shellie,female,Shellie Szymanski,,twice a day,stolen,78aafa7d-86da-45d0-b1ee-63c
 Portie,male,Portie Lewty,Portie Forty,,lab grown,78cdf4c3-7068-4463-b310-ac889b7c85f5,Aquamarine,4fc5e5a8-1a36-4777-9646-860b97d8925c,4.71
 Raynor,male,Raynor Southouse,Raynor Gladhill,,stolen,79212e5e-23ae-47ce-8818-18596629e0b4,Fuscia,d09821e4-ccc5-4224-b1bf-2cd77de10c4c,85.54
 Lawry,male,Lawry Danher,,,found,79ad4b24-aba1-4afb-bdcf-530033722712,Aquamarine,b42bfca4-47ad-4658-afda-a8f5d6fa2657,1.8
-Constancy,male,Constancy Normandale,Constancy Baunton,twice a day,stolen,7a810f42-e970-4d11-aec7-484e2d76e9c2,Red,b431a77d-bf69-4a74-b4d1-97cb08e0c1a2,52
+Chrissie,male,Chrissie Wheeldon,Chrissie Coultish,,found,7cad00e7-10bc-4752-b6c8-a48fffc34038,Red,d7b897b4-5277-4d2d-963e-e953cb76d185,13.68
 Amory,male,Amory Enticott,Amory Lobbe,once a day,stolen,7aa0d19b-5c30-4795-a38b-0386447a52b7,Purple,0e12e833-9a43-40ec-98e6-0f094b2c4cf9,96.59
 Mace,male,,Mace Mc Caughan,every 4 hours,found,7aa2210c-9863-4ae9-b8c6-3c633178a4e5,Crimson,0a3aeee7-99a6-43f1-ba3a-afad30b76aec,24.28
 Janean,male,Janean Blackham,Janean Jakubovsky,twice a day,lab grown,7aac35ca-9889-4ceb-abc2-65be540f07ff,Puce,258bc0bc-4178-4ba8-8860-ebd087c32f9c,9.33
 Floyd,female,Floyd Kendall,Floyd De Antoni,twice a day,lab grown,7bd37d27-3d2c-4061-8eef-5daaedf5ca10,Purple,724caf8b-45ed-49e9-94f2-62109592d9cb,29.64
 Bentley,female,,,,stolen,7c321a2f-2b89-441a-8f9d-20a4656c167a,Khaki,d6534f5f-9c6d-47d9-926d-0e20cb98db04,38.27
-Chrissie,male,Chrissie Wheeldon,Chrissie Coultish,,found,7cad00e7-10bc-4752-b6c8-a48fffc34038,Red,d7b897b4-5277-4d2d-963e-e953cb76d185,13.68
+Tabor,male,Tabor Renols,Tabor Wainman,once a day,lab born,e4ad8e5a-889b-45cf-8fdd-7656eaf3d69b,Red,daa6de27-9052-4a7a-98e1-398cca6715e4,35.58
 Dorise,female,Dorise Callinan,Dorise Abbe,twice a day,found,7cf7b468-2ff5-4649-b692-ec91c9b903ee,Aquamarine,800b8e8d-44bb-4022-9f23-e68b399af939,46.9
 Sheffie,male,Sheffie Aberhart,Sheffie Sherwell,once a day,stolen,7d2320f1-581e-4b73-a1e8-7bc27456d305,Crimson,cfd50b42-f5c1-4d55-a60c-03990cf9b4f0,2.23
 Rutledge,male,Rutledge Galvan,Rutledge Sappell,,stolen,7deadccf-1612-4638-b24f-4c2da077b252,Teal,3bd21454-ed40-478d-ba7b-5f820c65c5d0,83.6
@@ -808,7 +808,7 @@ Vally,male,Vally De Vuyst,Vally Balmann,,found,7f4f7259-7c09-4787-ade0-fc61b1945
 Shaine,female,Shaine Klos,Shaine Bedward,twice a day,lab born,7f51ad74-236e-44ce-acb0-9b0f5e69550d,Purple,2eb57d51-d7b2-40d1-804b-5cea4ecd2866,42.47
 Sergeant,female,Sergeant Mourant,Sergeant Schusterl,twice a day,stolen,7f5b6f50-d6e0-4b54-a4c9-299f9f6a8605,Green,15af970a-dab8-4815-84a4-ec8d9924500a,78.92
 Skipper,female,Skipper Wigginton,,once a day,found,803f4b07-f70b-4808-9357-57400001f0cd,Turquoise,f49ff5cf-b8a2-49ff-a29a-26b56f47d0f8,39.1
-Goran,male,Goran Scogings,,twice a day,lab born,8086a4a0-4343-44b0-812c-83a2385f3420,Red,4d0f525e-eaf1-4e57-962c-df0c38a0aa9c,94.91
+Marti,male,Marti Veal,,once a day,stolen,40798500-dc96-4c6d-a15c-c33379637775,Red,df856399-1c1c-4b38-9db8-3b8eceba0d85,4.76
 Sharline,male,Sharline Swainsbury,Sharline MacCheyne,twice a day,found,80e42ee5-e222-4dd0-a35a-6d49aee0435d,Pink,dc1da833-f224-42c5-adc6-9c52a4352c31,52.24
 Aileen,female,Aileen Berardt,Aileen O'Nowlan,twice a day,stolen,8204250f-9212-417d-a9cf-08a456ae75c7,Mauv,c04b9188-de87-413f-8dac-3757764b7012,60.5
 Gene,male,Gene Gout,,once a day,found,8209cb9e-da96-4ec2-9b15-cdae9dc60641,Green,38302772-1f5b-4c91-a847-aa1fe3de3c9f,68.94
@@ -885,7 +885,7 @@ Kaitlin,female,Kaitlin Ewings,,once a day,lab grown,9afcda79-f7f9-4060-b4d3-1276
 Tami,female,Tami Grimsell,,twice a day,lab grown,9b2b5153-e05b-4cea-95a9-16ef2fd5297e,Puce,2c688761-121a-45ec-9cc9-eca340504f5b,63.72
 Lisette,female,Lisette Gockelen,,twice a day,stolen,9b90b978-5d17-46d0-9b9e-a3e3e0dd79da,Orange,d9471f5d-7de0-4973-8cba-5da25bcbebab,10.72
 Burke,male,Burke Baugham,Burke Praundl,twice a day,lab grown,9c0e131a-fda2-48da-b904-69cda0572a28,Purple,8b0ddc6e-739d-48df-bad6-939abcd72fda,12.57
-Barbabra,male,Barbabra Ovise,Barbabra Docwra,once a day,stolen,9c8d498f-4f4e-40af-bc9b-6db79081dfc1,Red,e7fb8660-511a-4587-bc56-4416ad4e7e6d,86.66
+Jasun,female,Jasun Bernardeschi,,twice a day,found,f38daa0e-368a-42f5-917a-5f34503d57e3,Red,e25290cd-6fa1-42a4-b44f-839cef93e663,45.63
 Vicky,male,,,every 4 hours,stolen,9de75c93-8bd2-4bf4-9849-91b5a4714fa7,Puce,f86167d6-0d19-448a-90f2-0c1e9481d205,68.04
 Judon,male,,Judon Simukov,twice a day,stolen,9e4ca34d-e920-498d-ae2e-0607599e162f,Blue,c60ad26b-188a-4bf2-b880-74c432b94501,77.96
 Lambert,male,Lambert Dickens,Lambert Paulley,every 4 hours,lab grown,9ecf46a3-0952-4e2f-a19b-75591514d870,Goldenrod,facbe765-6433-4ae8-af7b-ab43fc3cb115,47.6
@@ -904,7 +904,7 @@ Bartel,male,,Bartel Goodee,once a day,found,78625748-3964-4297-beda-d809c044aa1b
 Noe,female,Noe Erington,Noe Miko,every 4 hours,found,7895fe28-a5c5-419c-8ef3-4e5b6b57e755,Teal,bc16b19f-b819-40f5-ba76-e7da13e19e36,63.21
 Gunther,female,Gunther Phalp,Gunther Tomkies,every 4 hours,lab born,78aafa7d-86da-45d0-b1ee-63c30b3aaa3e,Green,b83c61f1-4801-4e75-b0b6-603852ee9d06,42.82
 Godfry,female,Godfry Ashling,,,stolen,78cdf4c3-7068-4463-b310-ac889b7c85f5,Khaki,55dc531e-817b-4efd-82ae-2f9ab576eb54,24.09
-Gran,male,,Gran Saphin,twice a day,lab grown,79212e5e-23ae-47ce-8818-18596629e0b4,Red,2083ae26-7968-44aa-8e21-bfa19db1214c,66.92
+Barbabra,male,Barbabra Ovise,Barbabra Docwra,once a day,stolen,9c8d498f-4f4e-40af-bc9b-6db79081dfc1,Red,e7fb8660-511a-4587-bc56-4416ad4e7e6d,86.66
 Burr,female,Burr Rushbrook,Burr Sagg,once a day,lab grown,79ad4b24-aba1-4afb-bdcf-530033722712,Mauv,c7874f2b-13fb-4abf-8ae2-bf31c3c9110a,2.55
 Mathilda,male,Mathilda Gisbourn,Mathilda Grigolashvill,every 4 hours,lab born,7a810f42-e970-4d11-aec7-484e2d76e9c2,Crimson,556861d7-5191-4e66-96fd-bc0b8db53ce2,87.69
 Laurella,female,,Laurella Mound,twice a day,stolen,7aa0d19b-5c30-4795-a38b-0386447a52b7,Green,92d752e4-76c3-4d81-b5a7-245bb7d7148b,81
@@ -995,7 +995,7 @@ Elva,female,,Elva Pettegre,twice a day,lab grown,9a5d225c-ee46-488f-837e-25b2c8f
 Elden,female,Elden Anear,Elden Broadbury,once a day,stolen,9ab4c768-aa2f-47dd-bd91-15857b9404c9,Blue,ea150a51-e9ec-478a-9f30-dfa69d6e3111,60.64
 Keelby,female,Keelby Tyreman,Keelby Gill,once a day,found,9afcda79-f7f9-4060-b4d3-127686427dd2,Purple,55eb3bd6-a0c9-4317-b255-4bbd03f8ae63,29.09
 Fernande,female,Fernande Ramey,Fernande Braven,twice a day,stolen,9b2b5153-e05b-4cea-95a9-16ef2fd5297e,Purple,3be2d853-078e-4871-a183-45cfc8d3ca1a,32.32
-Caldwell,female,,Caldwell Fahrenbach,twice a day,lab born,9b90b978-5d17-46d0-9b9e-a3e3e0dd79da,Red,729f4ed4-e443-4bc5-b549-39e482912d79,14.6
+Tom,female,Tom Muffett,Tom Rought,every 4 hours,,932be4e7-ffba-48b4-976b-776ad3e03887,Red,ee7e972f-008f-4acd-9331-92a15ef89c1b,26.05
 Letti,male,,Letti Engeham,twice a day,lab born,9c0e131a-fda2-48da-b904-69cda0572a28,Turquoise,940b1339-9583-4fd3-ab60-e69e4d1f767c,47.87
 Marjorie,female,,Marjorie Uridge,once a day,found,9c8d498f-4f4e-40af-bc9b-6db79081dfc1,Purple,aa95fb95-c653-4653-a969-f6ae03fa5c9c,31.96
 Colet,male,Colet Shields,Colet Mugridge,twice a day,lab grown,9de75c93-8bd2-4bf4-9849-91b5a4714fa7,Aquamarine,0b32254e-a670-4337-a102-cc6a6f3d7c5a,82.83
